@@ -17,7 +17,6 @@ vizuelizaciju predikcija, metrika i učinka po klasama
 
 **Licence**
 Kod i model su otvoreni za istraživačke i edukativne svrhe. Dataset je vlasništvo originalnih autora.
-https://cloud.visaris.com/index.php/s/tT2qKG4YLHmf4Wo
 
 **Sadržaj projekta**
 
